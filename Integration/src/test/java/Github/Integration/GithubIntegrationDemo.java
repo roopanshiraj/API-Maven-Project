@@ -10,7 +10,7 @@ public class GithubIntegrationDemo {
 		System.out.println(" I am a testcase");
 		System.out.println(" I am a testcase1");
 		System.out.println(" I am a testcase2");
-		System.out.println(" I am a testcase2");
+		System.out.println(" I am a testcase3");
 	}
 
 }
